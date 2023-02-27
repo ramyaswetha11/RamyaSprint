@@ -1,4 +1,7 @@
 # Sprint 3
+
+GIT REPO: 
+
 Except abstract factory pattern in previous sprint , there are totally 3 new patterns implemented
 
 ### Builder Pattern
