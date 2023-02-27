@@ -1,6 +1,6 @@
 # Sprint 3
 
-GIT REPO: 
+GIT REPO: https://github.com/ramyaswetha11/RamyaSprint3
 
 Except abstract factory pattern in previous sprint , there are totally 3 new patterns implemented
 
